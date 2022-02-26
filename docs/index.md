@@ -1,19 +1,33 @@
-## Welcome to GitHub Pages
+## Sherlock
 
-You can use the [editor on GitHub](https://github.com/sudo-change/git-practice-flask-sherlock/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[webpage](https://ldynia.github.io/flask-sherlock/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sherlock is the best movie recommendation engine ever created. Isn't it Dr. [Jekyll](https://jekyllrb.com/)? More advanced references please look up how [Jekyll docs](https://github.com/jekyll/jekyll/tree/master/docs) are structured.
 
-### Markdown
+![sherlock](https://files.wallpaperpass.com/2019/09/sherlock%20wallpaper%2081%20-%201920x1200-1024x640.jpg)
+
+## Multiverse
+
+```bash
+$ echo Hello, bash!
+```
+
+```python
+>>> print('Hello, python!')
+```
+
+#### Markdown 101
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
+> Quotes "Life is like box o chocolates"
+
 # Header 1
 ## Header 2
-### Header 3
+#### Header 3
 
 - Bulleted
 - List
@@ -25,13 +39,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sudo-change/git-practice-flask-sherlock/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
