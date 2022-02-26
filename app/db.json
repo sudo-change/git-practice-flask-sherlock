@@ -13,6 +13,13 @@
     "director": ["Bobby Farrelly", "Peter Farrelly"],
     "stars": ["Woody Harrelson", "Randy Quaid", "Bill Murray"]
 }, {
+    "title": "The Ghost Writer",
+    "genre": ["crime", "drama", "mystery"],
+    "year": 2010,
+    "rating": 7.2,
+    "director": ["Roman Polański"],
+    "stars": ["Ewan McGregor", "Pierce Brosnan", "Olivia Williams"]
+}, {
     "title": "The Bridges of Madison County",
     "genre": ["drama", "romance"],
     "year": 1995,
